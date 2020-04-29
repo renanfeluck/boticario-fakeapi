@@ -18,7 +18,7 @@
             "status": "aprovado"
           },
           {
-            "id": 1
+            "id": 1,
             "code": 124,
             "value": "100,00"
             "date": "10-10-2020",
@@ -54,7 +54,7 @@
             "status": "aprovado"
           },
           {
-            "id": 1
+            "id": 1,
             "code": 124,
             "value": "100,00"
             "date": "10-10-2020",
