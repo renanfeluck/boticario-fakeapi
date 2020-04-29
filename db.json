@@ -2,12 +2,14 @@
   "users": 
 [
     {
+        "id": 0,
         "name": "Usuario 1",
         "CPF": "000.123.444-56",
         "email": "user1@gmail.com",
         "password": "1234"
     },
     {
+        "id": 1,
         "name": "Usuario 2",
         "CPF": "333.333.222-56",
         "email": "user2@gmail.com",
