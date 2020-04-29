@@ -7,8 +7,8 @@
         "CPF": "000.123.444-56",
         "email": "user1@gmail.com",
         "password": "1234",
-        "cashAvailable": 12,50,
-        "cashPending": 40,00,
+        "cashAvailable": 12.50,
+        "cashPending": 40.00,
         "buys": [
           {
             "id": 0,
@@ -45,8 +45,8 @@
         "CPF": "333.333.222-56",
         "email": "user2@gmail.com",
         "password": "1234",
-        "cashAvailable": 12,50,
-        "cashPending": 40,00,
+        "cashAvailable": 12.50,
+        "cashPending": 40.00,
       "buys": [
           {
             "id": 0,
