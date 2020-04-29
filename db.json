@@ -6,14 +6,72 @@
         "name": "Usuario 1",
         "CPF": "000.123.444-56",
         "email": "user1@gmail.com",
-        "password": "1234"
+        "password": "1234",
+        "buys": [
+          {
+            "id": 0,
+            "code": 123,
+            "value": "125,00"
+            "date": "21-08-2020",
+            "percent": "10%",
+            "cashback": "12,50",
+            "status": "aprovado"
+          },
+          {
+            "id": 1
+            "code": 124,
+            "value": "100,00"
+            "date": "10-10-2020",
+            "percent": "10%",
+            "cashback": "10,00",
+            "status": "reprovado"
+          },
+           {
+            "id": 2,
+            "code": 123,
+            "value": "200,00"
+            "date": "22-08-2020",
+            "percent": "20%",
+            "cashback": "40,00",
+            "status": "em analise"
+          }
+        ]
     },
     {
         "id": 1,
         "name": "Usuario 2",
         "CPF": "333.333.222-56",
         "email": "user2@gmail.com",
-        "password": "1234"
+        "password": "1234",
+      "buys": [
+          {
+            "id": 0,
+            "code": 123,
+            "value": "125,00"
+            "date": "21-08-2020",
+            "percent": "10%",
+            "cashback": "12,50",
+            "status": "aprovado"
+          },
+          {
+            "id": 1
+            "code": 124,
+            "value": "100,00"
+            "date": "10-10-2020",
+            "percent": "10%",
+            "cashback": "10,00",
+            "status": "reprovado"
+          },
+           {
+            "id": 2,
+            "code": 123,
+            "value": "200,00"
+            "date": "22-08-2020",
+            "percent": "20%",
+            "cashback": "40,00",
+            "status": "em analise"
+          }
+        ]
     }
 ]
 
